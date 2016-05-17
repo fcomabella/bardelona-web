@@ -1,0 +1,114 @@
+[
+    {
+        "brewery": "Brooklyn",
+        "name": "Lager",
+        "style": "American Lager",
+        "abv": 5.2,
+        "location": {
+            "city": "Brooklyn",
+            "country": "USA"
+        },
+        "price": {
+            "small": 3,
+            "big": 5
+        }
+    },
+    {
+        "brewery": "Almogàver",
+        "name": "Clàssica",
+        "style": "Amber Ale",
+        "abv": 4.5,
+        "location": {
+            "city": "Barcelona",
+            "country": "Spain"
+        },
+        "price": {
+            "small": 3,
+            "big": 5
+        }
+    },
+    {
+        "brewery": "Almogàver",
+        "name": "Hop&Roll",
+        "style": "IPA",
+        "abv": 6,
+        "location": {
+            "city": "Barcelona",
+            "country": "Spain"
+        },
+        "price": {
+            "small": 3,
+            "big": 5
+        }
+    },
+    {
+        "brewery": "Brewdog",
+        "name": "Punk IPA",
+        "style": "IPA",
+        "abv": 5.6,
+        "location": {
+            "city": "Ellon",
+            "country": "Scotland"
+        },
+        "price": {
+            "small": 3,
+            "big": 5
+        }
+    },
+    {
+        "brewery": "Stone",
+        "name": "Arrogant Bastard",
+        "style": "Bourbon Barrel Aged Strong Ale",
+        "abv": 7.9,
+        "location": {
+            "city": "Berlin",
+            "country": "Germany"
+        },
+        "price": {
+            "small": 4.5,
+            "big": 7
+        }
+    },
+    {
+        "brewery": "Le Fort",
+        "name": "Le Fort",
+        "style": "Belgian Strong Dark Ale",
+        "abv": 8.5,
+        "location": {
+            "city": "Bellegem",
+            "country": "Belgium"
+        },
+        "price": {
+            "small": 4,
+            "big": 6
+        }
+    },
+    {
+        "brewery": "Brewdog",
+        "name": "Jack Hammer",
+        "style": "IPA",
+        "abv": 7.2,
+        "location": {
+            "city": "Ellon",
+            "country": "Scotland"
+        },
+        "price": {
+            "small": 4,
+            "big": 6
+        }
+    },
+    {
+        "brewery": "Weihenstephan",
+        "name": "Weihenstephaner Hefeweissbier",
+        "style": "Hefe Weissbier",
+        "abv": 5.4,
+        "location": {
+            "city": "Freising",
+            "country": "Germany"
+        },
+        "price": {
+            "small": 3,
+            "big": 5
+        }
+    }
+]
